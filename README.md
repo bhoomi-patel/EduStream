@@ -19,7 +19,7 @@ Experience EduStream in action:
 pnpm install
 pnpm dev
 ```
-<<<<<<< HEAD
+
 ## Setup Instructions 
    ```bash 
     # Clone the Repository:
@@ -35,6 +35,7 @@ pnpm dev
     # Build for Production:
      npm run build
 ```
+
 ## Deployment Options:
      •	Vercel (recommended – already live)
      •	Netlify / GitHub Pages
