@@ -19,5 +19,24 @@ Experience EduStream in action:
 pnpm install
 pnpm dev
 ```
+## Setup Instructions 
+ --> Clone the Repository:
+   ```bash 
+    git clone https://github.com/bhoomi-patel/EduStream.git
+    cd EduStream ```
+
+    # Install Dependencies:
+     npm install 
+
+    # Run Development Server:
+     npm start
+
+    # Build for Production:
+     npm run build
+```
+## Deployment Options:
+     •	Vercel (recommended – already live)
+     •	Netlify / GitHub Pages
+     •	Custom server hosting
 
 Dive into the future of education! 🌟
