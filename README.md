@@ -21,10 +21,10 @@ pnpm dev
 ```
 <<<<<<< HEAD
 ## Setup Instructions 
- --> Clone the Repository:
    ```bash 
+    # Clone the Repository:
     git clone https://github.com/bhoomi-patel/EduStream.git
-    cd EduStream ```
+    cd EduStream 
 
     # Install Dependencies:
      npm install 
@@ -40,6 +40,4 @@ pnpm dev
      •	Netlify / GitHub Pages
      •	Custom server hosting
 
-=======
->>>>>>> 94d3c531a0a5a6650ebad625f32160d941b4b163
 Dive into the future of education! 🌟
