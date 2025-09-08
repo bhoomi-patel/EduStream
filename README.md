@@ -19,11 +19,5 @@ Experience EduStream in action:
 pnpm install
 pnpm dev
 ```
-## screenshots ## 
-![alt text](<darkmode.png>)
-![alt text](<lightmode.png>)
-![alt text](<homepage.png>)
-![alt text](<dashboard.png>)
-
 
 Dive into the future of education! 🌟
